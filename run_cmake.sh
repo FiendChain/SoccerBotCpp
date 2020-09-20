@@ -1,1 +1,1 @@
-cmake -DCMAKE_C_COMPILER=/mingw64/bin/gcc -DCMAKE_CXX_COMPILER=/mingw64/bin/g++ .
+cmake -DCMAKE_C_COMPILER=/mingw64/bin/gcc -DCMAKE_CXX_COMPILER=/mingw64/bin/g++ -DCMAKE_BUILD_TYPE=Release .
