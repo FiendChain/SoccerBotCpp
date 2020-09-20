@@ -1,3 +1,6 @@
+## Introduction
+Test app using tensorflow-lite. App for loading in tflite model from soccerbot project (https://github.com/FiendChain/soccerbot).
+
 ## Compiling
 ***compiler***: msys2 mingw64 gcc/g++ version 9.2.0
 
